@@ -1,4 +1,5 @@
 from keras.layers import *
+from keras import regularizers
 from keras.layers.advanced_activations import LeakyReLU
 import tensorflow as tf
 
